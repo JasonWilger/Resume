@@ -1,0 +1,52 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image:url("grey-wall.jpeg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-size: 500%;
+    background-color: wheat; opacity: 75%;
+    padding: 5%;
+    margin: -1%;
+}
+h2 {
+    font-size: 300%;
+    color: white;
+    background-color: black; opacity: 75%;
+    padding: 2%; margin-left: 25%; margin-right: 25%;
+    text-align: center;
+    
+}
+h3 {
+    font-size: 200%;
+    background-color: wheat; opacity: 75%;
+    padding: 2%;
+}
+hr {
+border: 1px solid black;
+}
+ul {
+    font-size: 75%;
+    background-color: wheat; opacity: 75%;
+    padding: 2%;
+}
+p {
+    font-size: 75%;
+    background-color: wheat; opacity: 75%;
+    padding: 2%;
+}
+img {
+    border-radius: 25%;
+    padding: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+center {
+    font-size: 200%;
+}
